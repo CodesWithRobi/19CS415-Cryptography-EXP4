@@ -94,5 +94,7 @@ void decipher() {
 
 ## OUTPUT
 
+<img width="787" height="679" alt="image" src="https://github.com/user-attachments/assets/8770356b-36c2-46e1-b1f5-5f194aa0d4a0" />
+
 ## RESULT
 Successfully implemented the Vigenere Cipher substitution technique using C program.
